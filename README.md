@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Ismail 👋
 
-<!--
-**i61mail/i61mail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1337 (42 Network) student interested in **web development**.
 
-Here are some ideas to get you started:
+### Skills
+- JavaScript / TypeScript
+- React & Next.js
+- Tailwind CSS
+- HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning
+- Backend development
+- Scalable web applications

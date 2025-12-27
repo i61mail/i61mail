@@ -18,8 +18,8 @@
   <a href="https://www.linkedin.com/in/ismailrkik/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-  <a href="https://www.instagram.com/i61mail/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+    <a href="https://www.instagram.com/i61mail/" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="40"/>
   </a>
 </p>
 

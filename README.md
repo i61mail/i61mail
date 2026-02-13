@@ -70,13 +70,6 @@
 
 ---
 
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ismailrkik&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ff6b6b&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
 <!-- Snake animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions"/>

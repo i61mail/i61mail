@@ -28,17 +28,6 @@
 
 ---
 
-<!-- Stats Row -->
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ismailrkik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailrkik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ismailrkik&theme=tokyonight&hide_border=true&background=0D1117&stroke=00f5ff&ring=a78bfa&fire=ff6b6b&currStreakNum=00f5ff&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6e7681"/>
-</div>
-
----
 
 <!-- Tech Stack -->
 ### 🛠️ &nbsp;Tech Stack

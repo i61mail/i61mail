@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://ismailrkik.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ismailrkik.me-00F5FF?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/_Visit_My_Portfolio-ismailrkik.me-00F5FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 

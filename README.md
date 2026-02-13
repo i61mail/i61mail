@@ -11,20 +11,16 @@
 <br/>
 
 <!-- About Me -->
-<div align="center">
-  
-```
-╔══════════════════════════════════════════════════════════╗
-║                    > WHOAMI                              ║
-╠══════════════════════════════════════════════════════════╣
-║  🎓  Student @ 1337 / 42 Network                        ║
-║  🌐  Passionate about Web Development                    ║
-║  ⚡  Currently leveling up in Backend & Scalable Apps    ║
-║  🔭  Always building. Always learning.                   ║
-╚══════════════════════════════════════════════════════════╝
-```
+<h2 align="center">About Me</h2>
 
-</div>
+<p align="center">
+  <samp>
+    Student at <b>1337 / 42 Network</b> <br/>
+    Passionate about building modern web experiences <br/>
+    Currently focused on backend systems & scalable architecture <br/>
+    Always building. Always learning.
+  </samp>
+</p>
 
 ---
 
@@ -51,6 +47,7 @@
 
 **Database & DevOps**
 
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>

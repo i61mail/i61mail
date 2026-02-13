@@ -8,6 +8,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=600&lines=1337+%2F+42+Network+Student;Building+the+Web%2C+One+Component+at+a+Time;JavaScript+%E2%86%92+TypeScript+%E2%86%92+%E2%88%9E;From+Frontend+to+Fullstack+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <a href="https://ismailrkik.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ismailrkik.me-00F5FF?style=for-the-badge"/>
+  </a>
+</div>
+
+
 <br/>
 
 <!-- About Me -->
